@@ -1,0 +1,43 @@
+
+
+Bem vindo ao site sobre os conteudos de Hardware e Software corresponde aos componentes físicos do computador e desenvolvimento de sistemas ou seja, são as peças e aparatos eletrônicos e programas para utilizar no seu dia a dia de trabalho e sua vida social e etc. O software é a parte referente aos sistemas que executam as atividades ou seja, são os programas e aplicativos que fazem com a máquina funcione cada vez melhor.
+Hardware e Software e o Universo da Informática é formado por: equipamentos, sistemas, dados e pessoas, esse conteudos explicará os conceitos de hardware e software. Diferença entre Hardware e Software No universo da Informática existem dois grandes conjuntos: o de equipamentos, que chamamos de hardware, e o de sistemas, que chamamos de software. Em sumo, hardware é a parte física, que conseguimos pegar, como um computador, um smartphone e outros equipamentos. Software é a parte lógica, como um sistema operacional, um aplicativo (app), um game e outros programas.
+		
+Hardware é a parte física do computador ou seja, o conjunto de aparatos eletrônicos, peças e equipamentos que fazem o computador funcionar. 
+A palavra hardware pode se referir também como o conjunto de equipamentos acoplados em produtos que precisam de algum
+tipo de processamento computacional.
+A ciência que estuda o hardware é conhecida como arquitetura de computadores.
+Lista de produtos de hardware
+Assim, um hardware pode ser classificado como de entrada, de saída ou ambos de acordo com o fluxo de dados que trafegam por eles. Por exemplo, um computador e um smartphone, são hardwares com entrada e saída de dados. Pense em um computador ligado a um teclado e a um monitor. A placa de vídeo do computador está enviando sinal para o monitor exibir. O fluxo de dados é: placa de vídeo. Já o teclado serve para enviar dados as teclas que forem apertadas. O computador recebe os dados do teclado. O fluxo é: teclado. Da mesma forma, olhando individualmente o monitor, ele é um hardware de saída. Uma impressora também. Você envia dados do computador, ou do smartphone, para ela imprimir. O fluxo é: computador -> impressora. O teclado, mouse e joystick são equipamentos de entrada.</h3>
+
+Principais produtos
+Processador - (AMD ou Intel) 
+Disco rígido - (Memória de massa, não volátil, utilizada para escrita e armazenamento dos dados)
+Placa-Mãe - (AMD ou Intel)
+Placa de Video - (AMD ou Intel)
+Memórias RAM
+Teclado e Mouse
+Impressora
+
+Diferentemente do hardware, o software é a parte lógica do computador, Software é a manipulação, instrução de execução, redirecionamento e execução das atividades lógicas das máquinas. Hardware é a parte física do computador, ou seja, o conjunto de aparatos eletrônicos, peças e equipamentos que fazem o computador funcionar.
+
+		<a href="https://github.com/Carlloos-Sillva">Link de acesso ao meu Github toda divulgação ajuda ;-)</a><br>
+		<a href="https://www.linkedin.com/in/carlos-silva-b7244920b/">Link de acesso ao meu linkedin toda divulgação ajuda ;-)</a>
+			
+Softwares de Sistemas: permite que o usuário interaja com o computador e suas partes. 
+firmware, drivers, etc.
+Softwares Aplicativos: permite que através de seu uso, o usuário faça uma tarefa específica. 
+Ex: editores de texto, planilhas eletrônicas, etc.
+ista de produtos de Software
+Um software de sistema ajuda o usuário e o hardware a funcionar e interagir uns com os outros. Basicamente, é um software para gerenciar o comportamento do hardware do PC de modo a fornecer as funcionalidades básicas que são solicitadas pelo usuário. Em palavras simples, podemos dizer que o software do sistema é um intermediário ou uma camada intermediária entre o usuário e o hardware.
+			Esses softwares sancionam uma plataforma ou ambiente para o outro software trabalhar. Portanto, esta é a razão pela qual o software de sistema é muito importante no gerenciamento de todo o sistema do PC. Dessa forma, quando você liga o PC pela primeira vez, é o software do sistema que é inicializado e carregado na memória do sistema. O software do sistema é executado em segundo plano e não é usado pelos usuários finais. Por fim, esta é a razão pela qual o software do sistema também é conhecido como “software de baixo nível”.
+
+Alguns exemplos comuns de software de sistema são:
+			
+Principais produtos
+Sistema Operacional (S.O.) 
+Exemplo de (S.O.) - Windows, Linux, Mac OS e Android
+Drivers de dispositivo
+Exemplo de Drive - Driver BIOS, Driver de dispositivo virtua, Drivers USB e Drivers VGA
+Software de Multimídia
+Exemplo de Soft. Mult. - Adobe Photoshop, Windows Media Player e VLC Media Player	

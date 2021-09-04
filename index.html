@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8">
+	<title>Hardware & Software</title>
+	<link rel="stylesheet" type="text/css" href="css/estilo.css">
+</head>
+<body>
+	<div class="topo">
+		<img src="img/Inicial.png" alt="topo">		
+	</div>
+	<br><br><br><br>
+	<h1>Mundo de Hardware & Software</h1><hr><br>
+	<div class="pesquisa">
+		<form method="get" action="recebe.php">
+			<h5>Técnico: Carlos E. Silva</h5>
+			Pesquise no Site: <input type="text" name="pesquisa">
+			<input type="submit" name="Enviar" value="Pesquisa">
+		</form>		
+	</div>
+	<h2>Conteudos sobre artigos de Hardware e Software</h2>
+	<p><p align="justify">Bem vindo ao site sobre os conteudos de Hardware e Software corresponde aos componentes físicos do computador e desenvolvimento de sistemas ou seja, são as peças e aparatos eletrônicos e programas para utilizar no seu dia a dia de trabalho e sua vida social e etc.<br> O software é a parte referente aos sistemas que executam as atividades ou seja, são os programas e aplicativos que fazem com a máquina funcione cada vez melhor.
+	Hardware e Software e o Universo da Informática é formado por: equipamentos, sistemas, dados e pessoas, esse conteudos explicará os conceitos de hardware e software.<br> Diferença entre Hardware e Software no universo da Informática existem dois grandes conjuntos: o de equipamentos, que chamamos de hardware, e o de sistemas, que chamamos de software. Em sumo, hardware é a parte física, que conseguimos pegar, como um computador, um smartphone e outros equipamentos, software é a parte lógica, como um sistema operacional, um aplicativo (app), um game e outros programas.
+	Hardware é a parte física do computador ou seja, o conjunto de aparatos eletrônicos, peças e equipamentos que fazem o computador funcionar. 
+	A palavra hardware pode se referir também como o conjunto de equipamentos acoplados em produtos que precisam de algum tipo de processamento computacional.<br> A ciência que estuda o hardware é conhecida como arquitetura de computadores. Lista de produtos de hardware assim, um hardware pode ser classificado como de entrada, de saída ou ambos de acordo com o fluxo de dados que trafegam por eles. Por exemplo, um computador e um smartphone, são hardwares com entrada e saída de dados. Pense em um computador ligado a um teclado e a um monitor. A placa de vídeo do computador está enviando sinal para o monitor exibir. O fluxo de dados é: placa de vídeo. Já o teclado serve para enviar dados as teclas que forem apertadas.<br> O computador recebe os dados do teclado. O fluxo é: teclado. Da mesma forma, olhando individualmente o monitor, ele é um hardware de saída. Uma impressora também. Você envia dados do computador, ou do smartphone, para ela imprimir. O fluxo é: computador -> impressora. O teclado, mouse e joystick são equipamentos de entrada.</p><br>
+
+
+	<h2>Manual de Uso - Introdução das Aplicações utilizadas</h2>
+	<p><p align="justify">No item acima, vamos realizar uma pesquisa onde as informações coletadas pela caixa de texto serão enviadas por um formulário (método POST) para uma página de tratamentos denominada receb.php.<br>Lá serão coletadas as variáveis que por meio de um Switch vão perceber qual o dado coleto e vão relacionar a uma determinada resposta.<br><br> No item abaixo também haverá uma coleta de informações via formulário, porém neste momento em método POST para esconder as informações da URL.<br>Essas informações serão convertidas em variáveis que serão tratadas em uma estrutura de decisão onde caso a renda registrada seja maior ou igual a 2.000 o crédit será aprovado, caso não o crédito será rcusado.<br></p>
+		<div class="conteudo">
+		<fieldset>
+			<legend>Calcule aqui sua possibilidade de Crédito</legend>
+				<br><form method="post" action="credito.php">
+					Nome: <input type="text" name="nome">
+					Renda: <input type="number" name="renda">
+					<input type="submit" name="Enviar" value="Calcular Crédito">
+				</form><br>
+		</fieldset>
+		<br><br>
+		<h2>Introdução ao Formulário de Orçamento</h2>
+		<p>Para finalizar vamos utilizar o formulário abaixo para que seja possível realizar um orçamento de serviços.<br> Nesta simulação vamos apresentar uma opção de impressão da página de orçamentos.<br></p>
+		<fieldset>
+			<legend>Orçamento de serviços</legend>
+				<br><form method="post" action="orcamento.php">
+					Data do seu Orçamento: <input type="date" name="data">
+					Tempo de Garantia do Serviço: <input type="number" name="garantia" min="1" max="6"><br>
+						<br>Serviço a ser realizado:
+						<select name = "servico">
+							<option>Formatação</option>
+							<option>Troca de Peças e Reparo</option>
+							<option>Outros</option>
+						</select>
+						Descrição do Aparelho: <input type="text" name="aparelho">
+						Nome do Cliente: <input type="text" name="cliente"><br>
+						<input type="submit" name="enviar" value="Visualizar Orçamento">
+				</form><br>
+		</fieldset>
+	</div>
+	<div class="rodape">
+		<h2>Bem vindo ao site sobre conteudos de Hardware e Software</h2>
+	</div>
+	<footer>
+	<a href="https://github.com/Carlloos-Sillva">Link de acesso ao meu Github toda divulgação ajuda ;-)</a><br>
+	<a href="https://www.linkedin.com/in/carlos-silva-b7244920b/">Link de acesso ao meu linkedin toda divulgação ajuda ;-)</a>
+		<h6>Todos os direitos e reservados - Técnico Carlos E. Silva</h6>
+	</footer>
+</body>
+</html>
