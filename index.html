@@ -9,7 +9,16 @@
 	<div class="topo">
 		<img src="img/Inicial.png" alt="topo">		
 	</div>
-	<br><br><br><br>
+	<br><br><br>
+		<h4>Acesso:</h4>
+	<div class="">		
+		<form method="POST" action="login.php">
+			Login: <input type="text" name="login" id="login"><br>
+			Senha: <input type="password" name="senha" id="senha"><br>
+			<input type="submit" value="Entrar" id="entrar" name="entrar"><br>
+			<input type="submit" value="Cadastrar" id="cadastrar" name="cadastrar">
+		</form>
+	</div>
 	<h1>Mundo de Hardware & Software</h1><hr><br>
 	<div class="pesquisa">
 		<form method="get" action="recebe.php">
@@ -26,7 +35,7 @@
 
 
 	<h2>Manual de Uso - Introdução das Aplicações utilizadas</h2>
-	<p><p align="justify">No item acima, vamos realizar uma pesquisa onde as informações coletadas pela caixa de texto serão enviadas por um formulário (método POST) para uma página de tratamentos denominada receb.php.<br>Lá serão coletadas as variáveis que por meio de um Switch vão perceber qual o dado coleto e vão relacionar a uma determinada resposta.<br><br> No item abaixo também haverá uma coleta de informações via formulário, porém neste momento em método POST para esconder as informações da URL.<br>Essas informações serão convertidas em variáveis que serão tratadas em uma estrutura de decisão onde caso a renda registrada seja maior ou igual a 2.000 o crédit será aprovado, caso não o crédito será rcusado.<br></p>
+	<p><p align="justify">No item acima, vamos realizar uma pesquisa onde as informações coletadas pela caixa de texto serão enviadas por um formulário (método POST) para uma página de tratamentos denominada receb.php.<br>Lá serão coletadas as variáveis que por meio de um Switch vão perceber qual o dado coleto e vão relacionar a uma determinada resposta.<br><br> No item abaixo também haverá uma coleta de informações via formulário, porém neste momento em método POST para esconder as informações da URL.<br>Essas informações serão convertidas em variáveis que serão tratadas em uma estrutura de decisão onde caso a renda registrada seja maior ou igual a R$500,00 o crédito será aprovado, caso não o crédito será recusado.<br></p>
 		<div class="conteudo">
 		<fieldset>
 			<legend>Calcule aqui sua possibilidade de Crédito</legend>

@@ -17,14 +17,7 @@
 	</div>
 	<div class="conteudo">
 		<?php
-			$nome = $_POST["nome"];
-			$renda =$_POST["renda"];
-			echo "Olá $nome Obrigado por seu contato.<br>";
-			if ($renda>=500) {
-				echo "Parabéns seu credito está <strong> aprovado </strong> ! ";
-			} elseif ($renda<500) {
-				echo "Infelizmente neste momento não poderemos conceder 
-	            	credito, <strong> clique </strong> em voltar para acessar a pagina";
+			
 			}
 		?>
 		<br><br>

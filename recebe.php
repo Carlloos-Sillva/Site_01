@@ -55,7 +55,6 @@
 	</div>
 	<div class="rodape">
 		<h2>Conteudos sobre Hardware e Software</h2><br>
-		<h2>PAGINA DE TRATAMENTO DE DADOS</h2>
 	</div>
 	<footer>
 		<h6>Todos os direitos e reservados - Técnico Carlos E. Silva</h6>
