@@ -9,7 +9,7 @@
 	<div class="topo">
 		<img src="img/Inicial.png" alt="topo">		
 	</div>
-	<br><br><br><br>
+	<br><br><br>
 	<h1>Orçamento - Mundo de Hardware & Software</h1><hr><br>
 	<div class="conteudo">
 		<?php
@@ -46,10 +46,10 @@
 		<form>
 			<input type="button" value="Imprimir Orçamento" onclick="window.print()">
 		</form>
-		<a href="index.html"> << Voltar </a>
+		<a href="index.html"> << Voltar para pagina principal</a>
 	</div>
 	<div class="rodape">
-		<h2>Conteudos sobre Hardware e Software</h2><br>
+		<h2>Conteudos sobre Hardware e Software !!!</h2><br>
 	</div>
 	<footer>
 		<h6>Todos os direitos e reservados - Técnico Carlos E. Silva</h6>

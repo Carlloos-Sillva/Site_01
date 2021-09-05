@@ -9,9 +9,8 @@
 	<div class="topo">
 		<img src="img/Inicial.png" alt="topo">		
 	</div>
-	<br><br><br><br>
+	<br><br><br>
 	<h1>Mundo de Hardware & Software</h1><hr><br>
-
 	<div class="pesquisa">
 		<h5>Técnico: Carlos E. Silva</h5>		
 	</div>
@@ -22,7 +21,7 @@
 				case 'office':
 				echo "
 				<h2>Pacote Office</h2>
-				<img src='img/office.png'><br>
+				<img src='img/Office.png'><br>
 				Faculdade, cursos livres e técnicos Mercado de trabalho disputado, empresas cada vez mais exigentes...<br>
 				Tempo e Dinheiro, são fatores que ocupam e preocupam pessoas o tempo todo na atual sociedade.<p> Microsoft Office, apresenta a forma mais simples e rápida de aprender as principais ferramentas da Microsoft para a criação de Planilhas eletrônicas, Formatação de Textos e Criação de Apresentações <br> com os já conhecidos e amplamente utilizados Softwares Excel, Word e Power Point.";
 				break;
@@ -37,7 +36,7 @@
 				case 'negocios':
 				echo "
 				<h2>Negócios Digitais</h2>
-				<img src='img/negocios.png'><br>
+				<img src='img/Negocios.png'><br>
 				Já imaginou desenvolver um site e obter renda extra com isso?<br>
 				Já imaginou trabalhar como afiliado de produtos digitais, gerando renda sem ter que abandonar seu atual emprego ou atividade?<p>
 				Prestar serviços de desenvolvimento de sites para empreendedores digitais, com campanhas completas de Marketing digital utilizando Google Ads, Facebook Ads?<p>
@@ -51,10 +50,10 @@
 			}
 		?>
 		<br><br>
-		<a href="index.html"> << Voltar </a>
+		<a href="index.html"> << Voltar para pagina principal</a>
 	</div>
 	<div class="rodape">
-		<h2>Conteudos sobre Hardware e Software</h2><br>
+		<h2>Conteudos sobre Hardware e Software !!!</h2><br>
 	</div>
 	<footer>
 		<h6>Todos os direitos e reservados - Técnico Carlos E. Silva</h6>
