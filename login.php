@@ -15,8 +15,7 @@
 		<h5>Técnico: Carlos E. Silva</h5>		
 	</div>
 	<div class="conteudo">
-		<?php
-			
+		<?php	
 		?>
 		<br><br>
 		<a href="index.html"> << Voltar para pagina principal</a>
